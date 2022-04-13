@@ -1,0 +1,39 @@
+#destacado {
+    color: rgb(18, 69, 36);
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    text-decoration: overline;
+    text-decoration-thickness: 2em;
+}
+h2{
+    font-size: 2rem;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    text-shadow: 0 0 3px, 0 0 5px;
+}
+h3 {
+    color: yellow;
+    background: rgb(19, 159, 40);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+p {
+  color: blue;  
+  font-size: 125.00%;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+  font-style: italic;
+  text-align: justify;
+ 
+}
+.delcuento {
+    color: rgb(12, 58, 12);
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+
+}
